@@ -1,5 +1,4 @@
-let calc = alert("Welcome");
-console.log(calc);
+alert("Welcome");
 // Calculator Code
 let string = "";
 let buttons = document.querySelectorAll("#button");
